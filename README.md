@@ -1,6 +1,3 @@
-1. npx create-react-app react-dapp
-2. yarn add ethers hardhat @nomiclabs/hardhar-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers
-
 1. yarn start:node - create local ethereum network
 2. form the 1. output, copy first account private key and import it to MMask account
 3. yarn deploy:local - deploy contracts
